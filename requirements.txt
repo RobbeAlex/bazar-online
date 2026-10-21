@@ -1,0 +1,26 @@
+# =============================================================================
+# Requerimientos de Entorno y Dependencias — Aura Bazar (bazar-online)
+# Proyecto Frontend Node.js / React + Vite (Gestionado vía package.json / npm)
+# =============================================================================
+# Requisitos de Sistema:
+# - Node.js >= 18.0.0
+# - npm >= 9.0.0
+#
+# Instalación:
+#   npm install
+#
+# Dependencias de Producción (package.json):
+#   react@^19.2.6
+#   react-dom@^19.2.6
+#   lucide-react@^1.17.0
+#
+# Dependencias de Desarrollo (devDependencies):
+#   vite@^8.0.12
+#   @vitejs/plugin-react@^6.0.1
+#   eslint@^10.3.0
+#   @eslint/js@^10.0.1
+#   eslint-plugin-react-hooks@^7.1.1
+#   eslint-plugin-react-refresh@^0.5.2
+#   @types/react@^19.2.14
+#   @types/react-dom@^19.2.3
+#   globals@^17.6.0
